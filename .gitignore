@@ -1,2 +1,4 @@
 
 source code/build-*
+
+*.user
